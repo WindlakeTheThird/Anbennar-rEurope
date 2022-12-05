@@ -1,0 +1,12 @@
+l_english:
+
+ HUSSAR_REGIMENT:0 "Griffon Rider Regiment\n$EFFECT$"
+ ONLY_HUSSAR_MODIFIER:0 "§YAffects only War Artificer Regiments§!"
+ REGCAT_hussar:0 "War Artificer"
+ HUSSAR_NAME:0 "$HOME$'s $NUM$$ORDER$ War Artificers"
+ ADD_HUSSAR_SUB_UNIT_EFFECT:0 "Get '§GWar Artificer§!' $UNIT$ in $WHERE|Y$."
+ HUSSAR_REGIMENT_TYPE:0 "War Artificer"
+ HAVE_LESS_HUSSAR_THAN:0 "Have less War Artificer Regiments than $VALUE|Y$.\n"
+ HAVE_AT_LEAST_HUSSAR_THAN:0 "Have at least $VALUE|Y$ War Artificer Regiments.\n"
+ #technocracy_hussar_bonus:0 "War Artificer Bonus"
+ hussar_regiment:0 "War Artificer"

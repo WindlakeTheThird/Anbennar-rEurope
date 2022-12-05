@@ -2594,6 +2594,7 @@ griffon_lords_reform = {
 		leader_land_manuever = 1
 		nobles_influence_modifier = 0.1
 		nobles_loyalty_modifier = 0.1
+		can_recruit_hussars = yes
 	}
 }
 

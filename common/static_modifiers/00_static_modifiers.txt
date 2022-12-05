@@ -282,7 +282,7 @@ development = {
 	local_amount_of_banners = 0.066
 	local_amount_of_cawa = 0.125
 	local_amount_of_carolean = 0.1
-	local_amount_of_hussars = 0.01
+	local_amount_of_hussars = 0.02
 }
 
 development_scaled = {
@@ -2077,8 +2077,12 @@ cawa_regiment = {
 }
 
 hussars_regiment = {
-	cavalry_shock = 1
-	morale_damage = 0.5
+	land_maintenance_modifier = 0.25
+	shock_damage_received = -0.1
+	fire_damage_received = -0.1
+	cavalry_shock = 0.5
+	reinforce_speed = -0.5
+	regiment_manpower_usage = -0.75
 	reinforce_speed = -0.5
 }
 
