@@ -55,6 +55,7 @@ country_event = {
 		}	
 		hidden_effect = {
 			lose_reforms = 10 # Reset reform progress
+			reformprogress = 900 # Give back reformprogress
 		}
 		if = {
 			limit = { NOT = { government = monarchy } }
